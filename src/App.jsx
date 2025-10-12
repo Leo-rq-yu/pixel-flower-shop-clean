@@ -1,6 +1,5 @@
 import React from 'react'
 import FlowerShop from './components/FlowerShop'
-import './App.css'
 
 function App() {
   return (
